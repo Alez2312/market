@@ -1,0 +1,4 @@
+#Mon Jan 22 02:25:44 COT 2024
+base.0=/home/alez2312/development/front-end/flutter/market/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
